@@ -365,4 +365,7 @@
     <string name="volume_panel_category_title">Volume panel</string>
     <string name="volume_panel_on_left_title">Left volume panel</string>
     <string name="volume_panel_on_left_summary">Show volume panel on the left side of the screen</string>
+
+    <!-- Auto pin confirm -->
+    <string name="lock_screen_auto_pin_confirm_summary_custom">Unlock automatically if you input a correct PIN. This is slightly less secure than tapping Enter to confirm.</string>
 </resources>
