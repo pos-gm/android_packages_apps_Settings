@@ -26,10 +26,12 @@
         android:persistent="false"
         android:selectable="false" />
 
+    <!--
     <Preference
         android:key="pif_fetch"
         android:title="@string/pif_fetch"
         android:persistent="false" />
+    -->
 
     <Preference
         android:key="pif_import"
